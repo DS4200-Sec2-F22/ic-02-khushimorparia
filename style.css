@@ -1,0 +1,15 @@
+html {
+	font-family: Arial;
+}
+
+.center {
+	text-align: center;
+}
+
+.container {
+	border: solid black;
+}
+
+#p1 {
+	color: DarkGreen;
+}
